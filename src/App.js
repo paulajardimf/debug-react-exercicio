@@ -79,7 +79,7 @@ function App() {
         <CardPequeno
           imagem={iconeEmail}
           nome="E-mail:"
-          descricao={perfil}
+          descricao={perfil.email}
         />
       </SectionPagina>
       <SectionPagina>
